@@ -1,0 +1,46 @@
+img{
+    float: left;
+    width: 265px;
+    margin: 7px;
+
+}
+
+body{
+    background-image: url("file:///C:/Users/Rakib/Downloads/equation-6537732_1280.jpg");
+}
+
+p{
+    color: rgb(212, 208, 208);
+    margin: 3px;
+}
+
+h1{
+    color: rgb(212, 208, 208);
+    text-decoration: underline;
+    text-decoration-color: rgb(212, 208, 208);
+}
+
+h2{
+    color: rgb(212, 208, 208);
+    text-decoration: underline;
+    text-decoration-color: rgb(212, 208, 208);
+}
+
+h3{
+    color: rgb(212, 208, 208);
+    text-decoration: underline;
+    text-decoration-color: rgb(212, 208, 208);
+}
+   
+
+img{  
+   border-color: rgb(212, 208, 208);
+    border-style: solid;
+    border-radius: 20px;
+}
+
+ul{
+    color: rgb(212, 208, 208);
+    text-decoration-color: rgb(212, 208, 208);
+    font-family: fantasy;
+}
